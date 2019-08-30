@@ -4,7 +4,7 @@
 #
 Name     : mvn-j2objc-annotations
 Version  : 1.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar
 Source0  : https://repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar
 Source1  : https://repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.pom
